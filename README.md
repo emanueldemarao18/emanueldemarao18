@@ -1,10 +1,5 @@
 ### 
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Emanuel De Marão" />
-</h1>
-
-
 <h1 align=center>⭐ Welcome to my github / Bem-vindo ao meu github ⭐</h1>
 <div align="justify">
 <h2 align="center">🧑🏽 INFORMAÇÕES PESSOAIS</h2>
