@@ -4,7 +4,7 @@
 <div align="justify">
 <h2 align="center">🧑🏽 INFORMAÇÕES PESSOAIS</h2>
 
--  Olá, Sou o Emanuel de Marão e tenho 19 anos
+-  Olá, Sou o Emanuel de Marão e tenho 21 anos
 -  Sou Técnico médio em Gestão de Redes e Sistemas Informáticos
 -  Tenho inglês nível intermediário 
 -  Conhecimento sobre os pacotes offices
