@@ -1,10 +1,10 @@
-<h1 align="center">⭐ Welcome to my GitHub ⭐</h1>
+<h1 align="center"> Welcome to my GitHub </h1>
 
 <div align="justify">
-  <h2 align="center">🧑🏽 Personal Information</h2>
+  <h2 align="center"> Personal Information</h2>
 
   - **Name:** Emanuel de Marão  
-  - **Age:** 21  
+  - **Age:** 22  
   - **Position:** Junior Java Back-End Developer  
   - **Current Company:** Critical TechWorks  
   - **Location:** Portugal
@@ -18,7 +18,6 @@ I'm a junior back-end developer with hands-on experience in Java, Spring Boot, Q
   <h3>☎️ Contact</h3>
   <div style="display: inline_block">
     <a href="mailto:emanueldemarao@gmail.com" target="_blank" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/emanueldemarao1/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/emanuel-de-mar%C3%A3o-028a68198/" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 </div>
