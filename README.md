@@ -16,4 +16,4 @@ Hey there — I'm Emanuel, welcome to my GitHub!
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,aws,azure,gcp,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,aws,azure,gcp,redis,postgresql,mysql,docker,mongodb,terraform,typescript,angular)](https://skillicons.dev)
