@@ -1,5 +1,5 @@
 
-Hey there — I'm Emanuel, welcome to my GitHub! 
+Hey there I'm Emanuel, welcome to my GitHub! 
 
 
 ---
