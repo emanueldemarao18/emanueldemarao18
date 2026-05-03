@@ -6,7 +6,7 @@ Hey there I'm Emanuel, welcome to my GitHub!
  👨‍💻 Software Engineer at [Asseco PST](https://pst.asseco.com/)  
 📍 Based in Lisbon, Portugal  
 🌍 English Proficiency: C1 (Advanced)  
-🎥 Sharing tech content on [LinkedIn](https://www.linkedin.com/in/emanueldemarao/) (2k+ followers)
+🎥 Sharing tech content on [LinkedIn](https://www.linkedin.com/in/emanueldemarao/) (3k+ followers)
 
 ---
 
