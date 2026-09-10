@@ -3,7 +3,7 @@ Hey there I'm Emanuel, welcome to my GitHub!
 
 
 ---
- 👨‍💻 Software Engineer 
+👨‍💻 Software Engineer 
 📍 Based in Lisbon, Portugal  
 🌍 English Proficiency: C1 (Advanced)  
 🎥 Sharing tech content on [LinkedIn](https://www.linkedin.com/in/emanueldemarao/) (3k+ followers)
